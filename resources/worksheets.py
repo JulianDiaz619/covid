@@ -1,0 +1,1 @@
+conditions = "https://data.cdc.gov/api/views/hk9y-quqm/rows.csv?accessType=DOWNLOAD"
