@@ -4,10 +4,10 @@ Project Title: Investigating COVID-19 and Its Impact on Medical Conditions, Lock
 
 Team Members:
 
-*Julian
-*Anthony
-*Suneetha
-*Khanh
+* Julian
+* Anthony
+* Suneetha
+* Khanh
 
 Introduction:
 The COVID-19 pandemic has affected the entire world in unprecedented ways. As the virus continues to spread, it is essential to understand its impact on different aspects of society, including medical conditions, lockdowns, vaccinations, and demographic data. Our team has chosen to investigate four different topics related to COVID-19 and explore how they impact the overall outcome of the pandemic.
