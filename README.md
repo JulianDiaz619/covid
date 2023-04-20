@@ -34,5 +34,6 @@ The COVID-19 pandemic has affected all aspects of our lives, and it is essential
 The data used in this project was provided by Centers for Disease Control and Prevention (CDC) and Kaggle at the following links: 
 * [CDC | COVID-19 Case Surveillance Data](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4)
 * [CDC | Conditions Contributing to COVID-19 Deaths by State](https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm)
+* [CDC | U.S. State and Territorial Stay-At-Home Orders](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Stay-At-Home-Orders-Marc/y2iy-8irm)
 * [Kaggle | United States COVID-19 Vaccinations](https://www.kaggle.com/datasets/sandhyakrishnan02/united-states-covid19-vaccinations)
 * [Kaggle | US Lockdown Dates Dataset](https://www.kaggle.com/datasets/lin0li/us-lockdown-dates-dataset)
