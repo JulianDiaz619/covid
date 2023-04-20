@@ -24,6 +24,13 @@ Our main objective is to analyze various aspects of COVID-19 and understand thei
 ## Methods
 To answer these research questions, we will analyze various datasets related to COVID-19. We will use statistical analysis techniques to identify patterns and trends in the data and draw meaningful conclusions from our findings.
 
+## Data Base (PG Admin)
+#### Table 1
+![Table 1](US_Orders_database.png)
+
+#### Table 2
+![Table 2](lockdown_us_database.png)
+
 ## Expected Outcomes
 We anticipate that our research will provide valuable insights into the impact of COVID-19 on various aspects of society. Our findings may inform public health policies and help healthcare providers better understand the risks associated with the virus.
 
@@ -37,3 +44,7 @@ The data used in this project was provided by Centers for Disease Control and Pr
 * [CDC | U.S. State and Territorial Stay-At-Home Orders](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Stay-At-Home-Orders-Marc/y2iy-8irm)
 * [Kaggle | United States COVID-19 Vaccinations](https://www.kaggle.com/datasets/sandhyakrishnan02/united-states-covid19-vaccinations)
 * [Kaggle | US Lockdown Dates Dataset](https://www.kaggle.com/datasets/lin0li/us-lockdown-dates-dataset)
+
+
+
+
