@@ -37,6 +37,9 @@ We anticipate that our research will provide valuable insights into the impact o
 ## Conclusion
 The COVID-19 pandemic has affected all aspects of our lives, and it is essential to understand its impact fully. Our team's research aims to explore different aspects of the pandemic and identify patterns and trends that can help us better understand the virus's impact on society. We hope that our findings will be useful for policymakers, healthcare providers, and the general public in navigating this unprecedented time.
 
+## Status Update
+Anthony made Tableau visualizations, Khanh built a COVID death prediction model using machine learning, Suneetha used vaccination data to forecast next year's vaccination trends, and Julian attempted but couldn't build a machine learning model to predict COVID deaths due to insufficient relevant data.
+
 ## Sources
 The data used in this project was provided by Centers for Disease Control and Prevention (CDC) and Kaggle at the following links: 
 * [CDC | COVID-19 Case Surveillance Data](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4)
