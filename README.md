@@ -19,10 +19,10 @@ Our main objective is to analyze various aspects of COVID-19 and understand thei
 *In what ways do pre-existing medical conditions of patients impact their likelihood of dying from COVID-19?
 *What does the lockdown give us more insight on?
 *Did COVID-19 activity decrease after vaccine distribution to the public?
-*How does demographic data, such as age, gender, race, and socioeconomic status, correlate with COVID-19 outcomes?
+*How does demographic data, such as age, gender, and race, correlate with COVID-19 outcomes?
 
 ## Methods
-To answer these research questions, we will analyze various datasets related to COVID-19. We will use statistical analysis techniques to identify patterns and trends in the data and draw meaningful conclusions from our findings.
+To answer these research questions, we will analyze various datasets related to COVID-19. We will use statistical analysis techniques to identify patterns and trends in the data and draw meaningful conclusions from our findings. Our initial approach will be finding datasets that meet our criteria with the appropriate keys. 
 
 ## Data Base (PG Admin)
 #### Table 1
@@ -38,7 +38,7 @@ We anticipate that our research will provide valuable insights into the impact o
 The COVID-19 pandemic has affected all aspects of our lives, and it is essential to understand its impact fully. Our team's research aims to explore different aspects of the pandemic and identify patterns and trends that can help us better understand the virus's impact on society. We hope that our findings will be useful for policymakers, healthcare providers, and the general public in navigating this unprecedented time.
 
 ## Status Update
-Anthony made Tableau visualizations, Khanh built a COVID death prediction model using machine learning, Suneetha used vaccination data to forecast next year's vaccination trends, and Julian attempted but couldn't build a machine learning model to predict COVID deaths due to insufficient relevant data.
+Anthony made Tableau visualizations, Khanh built a COVID mortality prediction model using supervised machine learning, Suneetha used vaccination data to forecast next year's vaccination trends, and Julian attempted but couldn't build a machine learning model to predict COVID deaths due to insufficient relevant data.
 
 ## Sources
 The data used in this project was provided by Centers for Disease Control and Prevention (CDC) and Kaggle at the following links: 
