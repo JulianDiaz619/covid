@@ -37,6 +37,11 @@ We anticipate that our research will provide valuable insights into the impact o
 ## Conclusion
 The COVID-19 pandemic has affected all aspects of our lives, and it is essential to understand its impact fully. Our team's research aims to explore different aspects of the pandemic and identify patterns and trends that can help us better understand the virus's impact on society. We hope that our findings will be useful for policymakers, healthcare providers, and the general public in navigating this unprecedented time.
 
+##### Dashboard Link 
+Set of visulizations using our data.
+- https://public.tableau.com/app/profile/anthony.bahena/viz/CovidDatasets_16825672727480/VaccinationDashboard?publish=yes 
+
+
 ## Status Update
 Anthony made Tableau visualizations, Khanh built a COVID mortality prediction model using supervised machine learning, Suneetha used vaccination data to forecast next year's vaccination trends, and Julian attempted but couldn't build a machine learning model to predict COVID deaths due to insufficient relevant data.
 
