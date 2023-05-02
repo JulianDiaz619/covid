@@ -26,10 +26,10 @@ To answer these research questions, we will analyze various datasets related to 
 
 ## Data Base (PG Admin)
 #### Table 1
-![Table 1](US_Orders_database.png)
+![Table 1](/screenshots/US_Orders_database.png)
 
 #### Table 2
-![Table 2](lockdown_us_database.png)
+![Table 2](/screenshots/lockdown_us_database.png)
 
 ## Expected Outcomes
 We anticipate that our research will provide valuable insights into the impact of COVID-19 on various aspects of society. Our findings may inform public health policies and help healthcare providers better understand the risks associated with the virus.
