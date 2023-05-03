@@ -16,10 +16,10 @@ The COVID-19 pandemic has affected the entire world in unprecedented ways. As th
 ## Project Objectives:
 Our main objective is to analyze various aspects of COVID-19 and understand their impact on society. Specifically, we will address the following research questions:
 
-*In what ways do pre-existing medical conditions of patients impact their likelihood of dying from COVID-19?
-*What does the lockdown give us more insight on?
-*Did COVID-19 activity decrease after vaccine distribution to the public?
-*How does demographic data, such as age, gender, and race, correlate with COVID-19 outcomes?
+* In what ways do pre-existing medical conditions of patients impact their likelihood of dying from COVID-19?
+* What does the lockdown give us more insight on?
+* Did COVID-19 activity decrease after vaccine distribution to the public?
+* How does demographic data, such as age, gender, and race, correlate with COVID-19 outcomes?
 
 ## Methods
 To answer these research questions, we will analyze various datasets related to COVID-19. We will use statistical analysis techniques to identify patterns and trends in the data and draw meaningful conclusions from our findings. Our initial approach will be finding datasets that meet our criteria with the appropriate keys. 
