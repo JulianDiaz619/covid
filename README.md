@@ -7,7 +7,7 @@ Investigating COVID-19 and Its Impact on Medical Conditions, Lockdowns, Vaccinat
 
 * Anthony Bahena ([@antbahena](https://github.com/antbahena))
 * Julian Diaz ([@JulianDiaz619](https://github.com/JulianDiaz619))
-* Khanh Phan ([@khp023](https://github.com/khp023))
+* Khanh Phan ([@k-phantastic](https://github.com/k-phantastic))
 * Suneetha Chintala ([@SuniAnalytics](https://github.com/SuniAnalytics))
 
 ## Overview
